@@ -1,4 +1,4 @@
-![text](https://github.com/anunezmartinez/anunezmartinez/blob/master/nointernet.gif)
+![text](https://github.com/anunezmartinez/anunezmartinez/blob/master/banner.gif)
 
 **pretty cool, huh**
 

@@ -1,3 +1,4 @@
+![gif](nointernet.gif)
 ### Hi there 👋
 
 - 🔭 I’m currently working on building a real time face detection with Javascript.

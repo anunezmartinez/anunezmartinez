@@ -1,6 +1,6 @@
 ![text](https://github.com/anunezmartinez/anunezmartinez/blob/master/banner.gif)
 
-**pretty cool, huh**
+
 
 ### Hi there 👋
 

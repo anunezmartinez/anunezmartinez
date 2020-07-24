@@ -1,4 +1,5 @@
-###  Hi There 👋
+###  Hi there, you can call me Adri! 👋
+###### *Developer & student*
 ![text](https://github.com/anunezmartinez/anunezmartinez/blob/master/banner.gif)
 ### What I'm currently working on? 🛠
 <ul>

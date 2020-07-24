@@ -11,7 +11,6 @@
     </ul>
 </ul>
 
-### GitHub stats ❤
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical)
 
 ### You can also find me on

@@ -20,5 +20,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/brand-instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hyde_an/)
 [<img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/brand-twitter.svg' alt='twitter' height='40'>](https://twitter.com/adrianmrnz)
 [<img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/link.svg' alt='website' height='40'>](https://anunezmartinez.com) 
+[<img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/mail.svg' alt='mail' height='40'>](mailto:adrian@anunezmartinez.com) 
 
 ![text](https://github.com/anunezmartinez/anunezmartinez/blob/master/banner.gif)

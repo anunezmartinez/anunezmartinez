@@ -10,7 +10,7 @@
       <li> [x] Bootstrap and DOM Javascript.
       <li> [x] Vim
       <li> [ ] Desing Patterns.
-      <li> [ ] Face API JS library built on Tensor Flow.
+      <li> [ ] Face API JS library built on Tensor Flow, project on hold.
     </ul>
 </ul>
 

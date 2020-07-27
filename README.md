@@ -3,7 +3,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=anunezmartinez.visitor-badge"/> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anunezmartinez.visitor-badge)
+
 
 ### What I'm currently working on? 🛠
 <ul>

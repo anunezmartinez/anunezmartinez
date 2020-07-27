@@ -3,7 +3,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical)
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+<img src="https://visitor-badge.glitch.me/badge?page_id=anunezmartinez.visitor-badge"/> 
 
 ### What I'm currently working on? 🛠
 <ul>

@@ -11,7 +11,13 @@
   <li>💻 I’m currently learning
     <ul>
       <li> [x] Bootstrap and DOM Javascript.
-      <li> [x] Vim
+      <li> [x] Vim.
+        <ul>
+          <li>
+            [ ] Learn how to properly use it and make it look like an IDE.
+           </li>
+        </ul>
+      <li> [ ] React.
       <li> [ ] Desing Patterns.
       <li> [ ] Face API JS library built on Tensor Flow, project on hold.
     </ul>

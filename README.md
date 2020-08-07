@@ -14,7 +14,7 @@
       <li> [x] Vim.
         <ul>
           <li>
-            [ ] Learn how to properly use it and make it look like an IDE.
+            [ ] Make it my main editor.
            </li>
         </ul>
       <li> [ ] React.

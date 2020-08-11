@@ -12,11 +12,7 @@
     <ul>
       <li> [x] Bootstrap and DOM Javascript.
       <li> [x] Vim.
-        <ul>
-          <li>
-            [ ] Make it my main editor.
-           </li>
-        </ul>
+      <li> [x] JDBC Java.
       <li> [ ] React.
       <li> [ ] Desing Patterns.
       <li> [ ] Face API JS library built on Tensor Flow, project on hold.

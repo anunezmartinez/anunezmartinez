@@ -13,7 +13,7 @@
       <li> [x] Bootstrap and DOM Javascript.
       <li> [x] Vim.
       <li> [x] JDBC Java.
-      <li> [x] Java MVC.
+      <li> [x] MVC Pattern.
       <li> [ ] React.
       <li> [ ] Desing Patterns.
       <li> [ ] Face API JS library built on Tensor Flow, project on hold.

@@ -16,7 +16,7 @@
       <li> [x] MVC Pattern.
       <li> [x] Java Swing.
       <li> [ ] React.
-      <li> [ ] Desing Patterns.
+      <li> [x] Desing Patterns.
       <li> [ ] Face API JS library built on Tensor Flow, project on hold.
     </ul>
 </ul>

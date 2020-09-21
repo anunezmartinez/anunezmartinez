@@ -18,6 +18,7 @@
       <li> [x] Java Swing.
       <li> [ ] React.
       <li> [x] Desing Patterns.
+      <li> [ ] Java Socket.
       <li> [ ] Face API JS library built on Tensor Flow, project on hold.
     </ul>
 </ul>

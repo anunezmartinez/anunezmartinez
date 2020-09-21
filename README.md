@@ -1,10 +1,7 @@
 ###  Hi there, you can call me Adri! 👋
+#### *Developer & student* 
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anunezmartinez.visitor-badge)
-###### *Developer & student* 
-
-
-
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical)
 

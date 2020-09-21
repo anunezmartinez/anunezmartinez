@@ -3,6 +3,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical)
 
+<img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&layout=compact&theme=radical" alt="Linguagens utilizadas">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anunezmartinez.visitor-badge)
 
 

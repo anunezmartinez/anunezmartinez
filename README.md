@@ -3,9 +3,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anunezmartinez.visitor-badge)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical)
 
-<img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&layout=compact&theme=radical">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&langs_count=8&theme=radical" />
+</a>
+
 
 ### What I'm currently working on? 🛠
 <ul>

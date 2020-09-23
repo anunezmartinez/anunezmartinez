@@ -26,8 +26,8 @@
     </ul>
 </ul>
 
-### You can also find me on
-<p align='center'>
+### You can also find me on 👇
+<p align='left'>
 <a href="https://www.linkedin.com/in/anunezmartinez/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hyde_an/"><img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/brand-instagram.svg' alt='instagram' height='40'></a>&nbsp;&nbsp;
 <a href="https://twitter.com/adrianmrnz"><img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/brand-twitter.svg' alt='twitter' height='40'></a>&nbsp;&nbsp;

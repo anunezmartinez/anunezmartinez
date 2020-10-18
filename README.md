@@ -34,5 +34,3 @@
 <a href="https://anunezmartinez.com"><img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/link.svg' alt='website' height='40'></a>&nbsp;&nbsp;
 <a href="mailto:adrian@anunezmartinez.com"><img src='https://cdn.jsdelivr.net/npm/tabler-icons@1.10.0/icons/mail.svg' alt='mail' height='40'></a>&nbsp;&nbsp;
 </p>
-
-![text](https://github.com/anunezmartinez/anunezmartinez/blob/master/banner.gif)

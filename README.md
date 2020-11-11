@@ -2,12 +2,11 @@
 #### *Developer & student* 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anunezmartinez.visitor-badge)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&langs_count=8&theme=radical" />
-</a>
+
+  <img align="center" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&layout=compact8&theme=radical" />
+</p>
 
 
 ### What I'm currently working on? 🛠

@@ -17,11 +17,8 @@
       <li> [x] Vim.
       <li> [x] JDBC Java.
       <li> [x] MVC Pattern.
-      <li> [x] Java Swing.
-      <li> [ ] React.
       <li> [x] Desing Patterns.
-      <li> [ ] Java Socket.
-      <li> [ ] Face API JS library built on Tensor Flow, project on hold.
+      <li> [ ] Socket - Pipes.
     </ul>
 </ul>
 

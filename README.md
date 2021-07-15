@@ -18,7 +18,8 @@
       <li> [x] JDBC Java.
       <li> [x] MVC Pattern.
       <li> [x] Desing Patterns.
-      <li> [ ] Socket - Pipes.
+      <li> [x] Socket - Pipes.
+      <li> [ ] Web Development Frameworks.
     </ul>
 </ul>
 

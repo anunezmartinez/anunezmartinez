@@ -5,7 +5,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=radical" />
 
-  <img align="center" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&layout=compact8&theme=radical" />
+  <img align="center" src="https://github-stats.pleiterson.vercel.app/api/top-langs?username=anunezmartinez&layout=compact8&theme=radical" />
 </p>
 
 ### You can also find me on 👇

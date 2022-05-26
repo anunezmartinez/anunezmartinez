@@ -1,5 +1,8 @@
 ###  Hi there, you can call me Adri! 👋
 #### *Developer & student* 
+<a href="https://www.github.com/anunezmartinez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anunezmartinez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anunezmartinez.visitor-badge)
 <a href="https://github.com/anunezmartinez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://stackoverflow.com/users/12432805/adri%c3%a1n-n%c3%ba%c3%b1ez-mart%c3%adnez" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
@@ -12,8 +15,17 @@
   <a href="https://github.com/anunezmartinez"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anunezmartinez&layout=compact&langs_count=15&theme=tokyonight&hide_border=true" />
-  <a href="http://www.github.com/anunezmartinez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anunezmartinez&&theme=tokyonight&hide_border=true" /></a>
+
 </div>
+
+<div align="center">
+  <img href="http://www.github.com/anunezmartinez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anunezmartinez&&theme=tokyonight&hide_border=true" 
+                                                        ></img>
+  <img href="http://www.github.com/anunezmartinez"><img src="https://activity-graph.herokuapp.com/graph?username=anunezmartinez&&theme=tokyonight&hide_border=true" alt="GitHub Commits Graph" /></img>
+
+</div>
+
+
   
 <div style="display: inline_block"><br>
  

@@ -15,17 +15,10 @@ src="https://img.shields.io/github/followers/anunezmartinez?logo=github&style=fo
   <a href="https://github.com/anunezmartinez"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anunezmartinez&layout=compact&langs_count=15&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img href="http://www.github.com/anunezmartinez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anunezmartinez&&theme=tokyonight&hide_border=true" 
+   <img href="http://www.github.com/anunezmartinez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anunezmartinez&&theme=tokyonight&hide_border=true" 
                                                         ></img>
-  <img href="http://www.github.com/anunezmartinez"><img src="https://activity-graph.herokuapp.com/graph?username=anunezmartinez&&theme=tokyonight&hide_border=true" alt="GitHub Commits Graph" /></img>
 
 </div>
-
-
   
 <div style="display: inline_block"><br>
  
